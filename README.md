@@ -22,6 +22,12 @@ Description: I coded my servo to turn 180 degrees. I was faced with the challken
 # Servo Gif
 ![](https://github.com/aniyahmoore28/Metro-Express-Circuit/blob/main/Metro%20Express/servo%20gif.gif)
 
+# Distance Sensor
+Description: I needed to wire up the distance senor so it can track in cm. What i found diffcult about this was figuring out the right holes the wires needed to go into so it could work. If even one was off the whole thing would not work. 
+
+# Distance Sensor Code (Photo)
+
+# Distance Sensor Gif
 
 
 
