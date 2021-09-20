@@ -30,5 +30,6 @@ Description: I needed to wire up the distance senor so it can track in cm. What 
 # Distance Sensor Gif
 ![](https://github.com/aniyahmoore28/Metro-Express-Circuit/blob/main/Metro%20Express/Distance%20Sensor%20Gif.gif)
 
+<img src="https://github.com/aniyahmoore28/Metro-Express-Circuit/blob/main/Metro%20Express/Distasnce%20sensor%20code%20photo.PNG" width="250" height="250" />
 
 
