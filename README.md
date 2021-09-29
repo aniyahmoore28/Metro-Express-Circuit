@@ -3,7 +3,7 @@
 * [CircuitPython Blink LED](#CircuitPython-Blink-LED)
 * [Servo 180](#Servo-180)
 * [Distance Sensor](#Distance-Sensor)
-* [Photo interrupter](#Photo-interupter)
+* [Photo interrupter](#Photo-interrupter)
 
 
 
