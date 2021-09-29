@@ -40,3 +40,7 @@ In thid assighmnet i needed to make the photo interupter count how many times it
 
 # Distance interupter Code (Photo)
 <img src="https://github.com/aniyahmoore28/Metro-Express-Circuit/blob/main/Metro%20Express/photo%20inturrupter%20SH.PNG" width="500" />
+
+# Photo (#2)
+<img src="https://github.com/aniyahmoore28/Metro-Express-Circuit/blob/main/Metro%20Express/photo%20inturrupter%20SH2.PNG" width="500" />
+
