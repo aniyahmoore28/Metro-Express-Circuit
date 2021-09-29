@@ -2,6 +2,8 @@
 ## Table of contents
 * [CircuitPython Blink LED](#CircuitPython-Blink-LED)
 * [Servo 180](#Servo-180)
+* [Distance Sensor](#Distance-Sensor)
+* [Photo interupter](#Photo-interupter)
 
 
 
