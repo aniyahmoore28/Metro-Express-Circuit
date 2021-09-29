@@ -37,3 +37,6 @@ I needed to wire up the distance senor so it can track in cm. What i found diffc
 # Photo interupter 
 # Description
 In thid assighmnet i needed to make the photo interupter count how many times it was interupted with a prompt sentence on the screen. It was diffucult but i madfe it past the challenegs. The main diffucilty was figuring out if the problem resided in the physical board or the code itself. Luckilky i just got a different one and started over which led me to realize the problem was in the board.
+
+# Distance interupter Code (Photo)
+<img src="https://github.com/aniyahmoore28/Metro-Express-Circuit/blob/main/Metro%20Express/photo%20inturrupter%20SH.PNG" width="500" />
