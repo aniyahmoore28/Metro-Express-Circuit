@@ -28,8 +28,10 @@ I coded my servo to turn 180 degrees. I was faced with the challkenge of figurin
 <img src="https://github.com/aniyahmoore28/Metro-Express-Circuit/blob/main/Metro%20Express/servo%20gif.gif" width="450" />
 
 # Distance Sensor
-# Description
-I needed to wire up the distance senor so it can track in cm. What i found diffcult about this was figuring out the right holes the wires needed to go into so it could work. If even one was off the whole thing would not work. 
+# Reflection
+1) Wiring up the distance sensor was diffucult at first but with reserche i was able to get it
+2) Working with number is not easy and i learned the hard way that you have to be very paerticular with your code
+3) Though at the end i was not able to get the blue LED to flash i still think i did a good job
 
 # Distance Sensor Code (Photo)
 <img src="https://github.com/aniyahmoore28/Metro-Express-Circuit/blob/main/Metro%20Express/Distasnce%20sensor%20code%20photo.PNG" width="500" />
@@ -38,7 +40,9 @@ I needed to wire up the distance senor so it can track in cm. What i found diffc
 
 # Photo interrupter 
 # Description
-In thid assighmnet i needed to make the photo interrupter count how many times it was interrupted with a prompt sentence on the screen. It was diffucult but i made it past the challenegs. The main diffucilty was figuring out if the problem resided in the physical board or the code itself. Luckilky i just got a different one and started over which led me to realize the problem was in the board.
+1) I needed to count the interruptions and reflect that onto the serial monitor
+2) I succeeded and the seiral counted the number or interruptions
+3) This thought me to keeping trying even fater tyhings get hard
 
 # Distance interrupter Code (Photo)
 <img src="https://github.com/aniyahmoore28/Metro-Express-Circuit/blob/main/Metro%20Express/photo%20inturrupter%20SH.PNG" width="500" />
@@ -48,4 +52,10 @@ In thid assighmnet i needed to make the photo interrupter count how many times i
 
 # Photo Interrupter Gif
 <img src="https://github.com/aniyahmoore28/Metro-Express-Circuit/blob/main/Metro%20Express/photo%20interupter%20Gif.gif" width="450" />
+
+# Lcd Interuppteer
+# Description
+1) I was able to work through problmes my
+2) When i did run into a problem i tried to fix it myself
+3) I loved figuring out the kinks myslefg and having to think
 
