@@ -28,6 +28,7 @@ I coded my servo to turn 180 degrees. I was faced with the challkenge of figurin
 ---
 # Distance Sensor
 <img src="https://github.com/aniyahmoore28/Metro-Express-Circuit/blob/main/Metro%20Express/Distasnce%20sensor%20code%20photo.PNG" width="250" />
+
 # Reflection
 Wiring up the distance sensor was diffucult at first but with reserche i was able to get it
 Working with number is not easy and i learned the hard way that you have to be very paerticular with your code
@@ -40,6 +41,7 @@ Though at the end i was not able to get the blue LED to flash i still think i di
 # Photo interrupter 
 <img src="https://github.com/aniyahmoore28/Metro-Express-Circuit/blob/main/Metro%20Express/photo%20inturrupter%20SH.PNG" width="250" />
 <img src="https://github.com/aniyahmoore28/Metro-Express-Circuit/blob/main/Metro%20Express/photo%20inturrupter%20SH2.PNG" width="250" />
+
 # Reflection
 I needed to count the interruptions and reflect that onto the serial monitor
 I succeeded and the seiral counted the number or interruptions
@@ -50,7 +52,8 @@ This thought me to keeping trying even fater tyhings get hard
 
 ---
 # Lcd Interuppteer
-1) I was able to work through problmes my
-2) When i did run into a problem i tried to fix it myself
-3) I loved figuring out the kinks myslefg and having to think
+I was able to work through problmes my
+When i did run into a problem i tried to fix it myself
+I loved figuring out the kinks myslefg and having to think
+i relly liked working with this one because i was able to think about how i can fix my problem on my own
 
