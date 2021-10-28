@@ -211,3 +211,5 @@ When i did run into a problem i tried to fix it myself
 I loved figuring out the kinks myslefg and having to think
 i relly liked working with this one because i was able to think about how i can fix my problem on my own
 
+# Evidence
+<img src="https://github.com/aniyahmoore28/Metro-Express-Circuit/blob/main/Metro%20Express/lcd%20gif(google).gif" width="250" />
