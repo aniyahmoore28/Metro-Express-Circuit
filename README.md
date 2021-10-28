@@ -20,26 +20,23 @@ I coded my servo to turn 180 degrees. I was faced with the challkenge of figurin
 # Servo Gif
 <img src="https://github.com/aniyahmoore28/Metro-Express-Circuit/blob/main/Metro%20Express/servo%20gif.gif" width="250" />
 ---
-
 # Distance Sensor
 <img src="https://github.com/aniyahmoore28/Metro-Express-Circuit/blob/main/Metro%20Express/Distasnce%20sensor%20code%20photo.PNG" width="250" />
-1) Wiring up the distance sensor was diffucult at first but with reserche i was able to get it
-2) Working with number is not easy and i learned the hard way that you have to be very paerticular with your code
-3) Though at the end i was not able to get the blue LED to flash i still think i did a good job
+# 1) Wiring up the distance sensor was diffucult at first but with reserche i was able to get it
+# 2) Working with number is not easy and i learned the hard way that you have to be very paerticular with your code
+# 3) Though at the end i was not able to get the blue LED to flash i still think i did a good job
 # Distance Sensor Gif
 <img src="https://github.com/aniyahmoore28/Metro-Express-Circuit/blob/main/Metro%20Express/Distance%20Sensor%20Gif.gif" width="250" />
 ---
-
 # Photo interrupter 
 <img src="https://github.com/aniyahmoore28/Metro-Express-Circuit/blob/main/Metro%20Express/photo%20inturrupter%20SH.PNG" width="250" />
 <img src="https://github.com/aniyahmoore28/Metro-Express-Circuit/blob/main/Metro%20Express/photo%20inturrupter%20SH2.PNG" width="250" />
-1) I needed to count the interruptions and reflect that onto the serial monitor
-2) I succeeded and the seiral counted the number or interruptions
-3) This thought me to keeping trying even fater tyhings get hard
+# 1) I needed to count the interruptions and reflect that onto the serial monitor
+# 2) I succeeded and the seiral counted the number or interruptions
+# 3) This thought me to keeping trying even fater tyhings get hard
 # Photo Interrupter Gif
 <img src="https://github.com/aniyahmoore28/Metro-Express-Circuit/blob/main/Metro%20Express/photo%20interupter%20Gif.gif" width="250" />
 ---
-
 # Lcd Interuppteer
 1) I was able to work through problmes my
 2) When i did run into a problem i tried to fix it myself
