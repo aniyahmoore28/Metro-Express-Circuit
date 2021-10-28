@@ -4,7 +4,7 @@
 * [Servo 180](https://github.com/aniyahmoore28/Metro-Express-Circuit#servo-180)
 * [Distance Sensor](https://github.com/aniyahmoore28/Metro-Express-Circuit#distance-sensor)
 * [Photo interrupter](https://github.com/aniyahmoore28/Metro-Express-Circuit#photo-interrupter)
-* [LCD](https://github.com/aniyahmoore28/Metro-Express-Circuit#lcd-interuppter)
+* [LCD](https://github.com/aniyahmoore28/Metro-Express-Circuit#lcd)
 
 
 
