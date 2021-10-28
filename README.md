@@ -1,10 +1,10 @@
 # Metro-Express-Circuit
 ## Table of contents
-* [CircuitPython Blink LED & code](https://github.com/aniyahmoore28/Metro-Express-Circuit/blob/main/README.md#blink-led--code)
-* [Servo 180 & code](https://github.com/aniyahmoore28/Metro-Express-Circuit#servo-180--code)
-* [Distance Sensor & code](https://github.com/aniyahmoore28/Metro-Express-Circuit#distance-sensor--code)
+* [Blink LED](https://github.com/aniyahmoore28/Metro-Express-Circuit#blink-led)
+* [Servo 180](https://github.com/aniyahmoore28/Metro-Express-Circuit#servo-180)
+* [Distance Sensor](https://github.com/aniyahmoore28/Metro-Express-Circuit#distance-sensor)
 * [Photo interrupter](https://github.com/aniyahmoore28/Metro-Express-Circuit#photo-interrupter)
-* [LCD & code](https://github.com/aniyahmoore28/Metro-Express-Circuit#lcd-interuppter--code)
+* [LCD](https://github.com/aniyahmoore28/Metro-Express-Circuit#lcd-interuppter)
 
 
 
@@ -171,7 +171,7 @@ figureing out how to find the false and make the screen also say false proved a 
 <img src="https://github.com/aniyahmoore28/Metro-Express-Circuit/blob/main/Metro%20Express/photo%20interupter%20Gif.gif" width="250" />
 
 ---
-# LCD Interuppter
+# LCD
 
 ```
 import board
