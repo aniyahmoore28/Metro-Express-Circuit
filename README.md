@@ -39,9 +39,26 @@ while True:
 <img src="https://github.com/aniyahmoore28/Metro-Express-Circuit/blob/main/Metro%20Express/LED%20gif.gif" width="250" />
 
 ---
+import time
+import board
+import pwmio
+import servo
 
+# create a PWMOut object on Pin A2.
+pwm = pwmio.PWMOut(board.A2, duty_cycle=2 ** 15, frequency=50)
+
+# Create a servo object, my_servo.
+my_servo = servo.Servo(pwm)
+
+while True:
+    for angle in range(0, 180, 5):  # 0 - 180 degrees, 5 degrees at a time.
+        my_servo.angle = angle
+        time.sleep(0.05)
+    for angle in range(180, 0, -5):  # 180 - 0 degrees, 5 degrees at a time.
+        my_servo.angle = angle
+        time.sleep(0.05)
+        ```
 # Servo 180 & code
-<img src="https://github.com/aniyahmoore28/Metro-Express-Circuit/blob/main/Metro%20Express/servo%20code%20photo.PNG" width="500"  />
 
 # Reflection
 I coded my servo to turn 180 degrees. I was faced with the challkenge of figuring out ewhich degrees worked bgest and how to it not spin continusly. In the long run i was able to find the coirrect code and get my servo to spin 180 degress in intervoles
