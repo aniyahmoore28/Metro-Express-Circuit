@@ -8,7 +8,7 @@
 
 
 
-#  Blink LED & code
+#  Blink LED 
 
 # Reflection
 My job was to make a code that told the circuit what colors to change to and a time gap in between those colors. It took lots of trial and erro and was easier on the second try. I was able to go slower and think about what i could be doing wroong, in the end this lead to my success.
@@ -44,7 +44,7 @@ while True:
 <img src="https://github.com/aniyahmoore28/Metro-Express-Circuit/blob/main/Metro%20Express/LED%20gif.gif" width="250" />
 
         
-# Servo 180 & code
+# Servo 180 
 
 ```
 import time
@@ -76,7 +76,7 @@ I coded my servo to turn 180 degrees. I was faced with the challkenge of figurin
 <img src="https://github.com/aniyahmoore28/Metro-Express-Circuit/blob/main/Metro%20Express/servo%20gif.gif" width="250" />
 
 ---
-# Distance Sensor & code
+# Distance Sensor 
 
 ```
 import time
@@ -171,7 +171,7 @@ figureing out how to find the false and make the screen also say false proved a 
 <img src="https://github.com/aniyahmoore28/Metro-Express-Circuit/blob/main/Metro%20Express/photo%20interupter%20Gif.gif" width="250" />
 
 ---
-# LCD Interuppter & code
+# LCD Interuppter
 
 ```
 import board
