@@ -35,8 +35,7 @@ while True:
     print("Make it Brown")
     dot.fill((153, 51, 0))
     time.sleep(.3)
-    ```
-    
+    ```   
     
  # Evidence
 <img src="https://github.com/aniyahmoore28/Metro-Express-Circuit/blob/main/Metro%20Express/LED%20gif.gif" width="250" />
