@@ -12,6 +12,7 @@ My job was to make a code that told the circuit what colors to change to and a t
 <img src="https://github.com/aniyahmoore28/Metro-Express-Circuit/blob/main/Metro%20Express/Mu%20Code%20-%20Aniyah.PNG" width="250" />
 # LED Gif
 <img src="https://github.com/aniyahmoore28/Metro-Express-Circuit/blob/main/Metro%20Express/LED%20gif.gif" width="250" />
+
 ---
 
 # Servo 180
@@ -19,6 +20,7 @@ My job was to make a code that told the circuit what colors to change to and a t
 I coded my servo to turn 180 degrees. I was faced with the challkenge of figuring out ewhich degrees worked bgest and how to it not spin continusly. In the long run i was able to find the coirrect code and get my servo to spin 180 degress in intervoles
 # Servo Gif
 <img src="https://github.com/aniyahmoore28/Metro-Express-Circuit/blob/main/Metro%20Express/servo%20gif.gif" width="250" />
+
 ---
 # Distance Sensor
 <img src="https://github.com/aniyahmoore28/Metro-Express-Circuit/blob/main/Metro%20Express/Distasnce%20sensor%20code%20photo.PNG" width="250" />
@@ -27,6 +29,7 @@ I coded my servo to turn 180 degrees. I was faced with the challkenge of figurin
 # 3) Though at the end i was not able to get the blue LED to flash i still think i did a good job
 # Distance Sensor Gif
 <img src="https://github.com/aniyahmoore28/Metro-Express-Circuit/blob/main/Metro%20Express/Distance%20Sensor%20Gif.gif" width="250" />
+
 ---
 # Photo interrupter 
 <img src="https://github.com/aniyahmoore28/Metro-Express-Circuit/blob/main/Metro%20Express/photo%20inturrupter%20SH.PNG" width="250" />
@@ -36,6 +39,7 @@ I coded my servo to turn 180 degrees. I was faced with the challkenge of figurin
 # 3) This thought me to keeping trying even fater tyhings get hard
 # Photo Interrupter Gif
 <img src="https://github.com/aniyahmoore28/Metro-Express-Circuit/blob/main/Metro%20Express/photo%20interupter%20Gif.gif" width="250" />
+
 ---
 # Lcd Interuppteer
 1) I was able to work through problmes my
