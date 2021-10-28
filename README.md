@@ -1,10 +1,10 @@
 # Metro-Express-Circuit
 ## Table of contents
-* [CircuitPython Blink LED & code](#CircuitPython-Blink-LED-&-code)
-* [Servo 180 & code](#Servo-180-&-code)
-* [Distance Sensor & code](#Distance-Sensor-&-code)
-* [Photo interrupter & code](#Photo-interrupter-&-code)
-* [LCD & code](#LCD-&-code)
+* [CircuitPython Blink LED & code](https://github.com/aniyahmoore28/Metro-Express-Circuit/blob/main/README.md#blink-led--code)
+* [Servo 180 & code](https://github.com/aniyahmoore28/Metro-Express-Circuit#servo-180--code)
+* [Distance Sensor & code](https://github.com/aniyahmoore28/Metro-Express-Circuit#distance-sensor--code)
+* [Photo interrupter](https://github.com/aniyahmoore28/Metro-Express-Circuit#photo-interrupter)
+* [LCD & code](https://github.com/aniyahmoore28/Metro-Express-Circuit#lcd-interuppter--code)
 
 
 
