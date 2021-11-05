@@ -13,18 +13,18 @@
 # Reflection
 My job was to make a code that told the circuit what colors to change to and a time gap in between those colors. It took lots of trial and erro and was easier on the second try. I was able to go slower and think about what i could be doing wroong, in the end this lead to my success.
 
-```
+```python
 import board
 import neopixel
 import time
 
 dot = neopixel.NeoPixel(board.NEOPIXEL, 1)
-dot.brightness = 0.1
+dot.brightness = 0.1 # controls the brightness of the LED
 
 while True:
     print("Make it Light Blue")
     dot.fill((204, 255, 255))
-    time.sleep(.3)
+    time.sleep(.3) # The time skip of the colors
     print("make it purple")
     dot.fill((153, 102, 255))
     time.sleep(.3)
@@ -35,7 +35,7 @@ while True:
     dot.fill((255, 102, 0))
     time.sleep(.3)
     print("Make it Brown")
-    dot.fill((153, 51, 0))
+    dot.fill((153, 51, 0)) # this color is a combo of colors beacause it does not make browm=n
     time.sleep(.3)
    
    ```   
@@ -46,25 +46,25 @@ while True:
         
 # Servo 180 
 
-```
+```python
 import time
 import board
 import pwmio
 import servo
 
-# create a PWMOut object on Pin A2.
+# create a PWMOut object on Pin A2. # Once you touch one of these pens it shows up on the LCD screen
 pwm = pwmio.PWMOut(board.A2, duty_cycle=2 ** 15, frequency=50)
 
 # Create a servo object, my_servo.
 my_servo = servo.Servo(pwm)
 
 while True:
-    for angle in range(0, 180, 5):  # 0 - 180 degrees, 5 degrees at a time.
+    for angle in range(0, 180, 5):  # 0 - 180 degrees, 5 degrees at a time. # Controls the degrees at which the servo reotates 
         my_servo.angle = angle
         time.sleep(0.05)
     for angle in range(180, 0, -5):  # 180 - 0 degrees, 5 degrees at a time.
         my_servo.angle = angle
-        time.sleep(0.05)
+        time.sleep(0.05) # Time skip
         
    ```
 
@@ -78,7 +78,7 @@ I coded my servo to turn 180 degrees. I was faced with the challkenge of figurin
 ---
 # Distance Sensor 
 
-```
+```python
 import time
 import board
 import adafruit_hcsr04
@@ -94,7 +94,7 @@ cm = 0
 while True:
     try:
         cm = sonar.distance
-        print((cm,))
+        print((cm,)) # Print cm (if more or less than)
         if cm < 20:
             print("red")
             r = simpleio.map_range(cm, 5, 20, 255, 0)
@@ -113,7 +113,7 @@ while True:
             b = 0
         dot.fill((int(r), int(g), int(b)))
 
-    except RuntimeError:
+    except RuntimeError: # Exceptions if there is an error
             print("Retrying")
             time.sleep(0.1)
             
@@ -130,7 +130,7 @@ Though at the end i was not able to get the blue LED to flash i still think i di
 ---
 # Photo interrupter 
 
-```
+```python
 from digitalio import DigitalInOut, Direction, Pull
 import time
 import board
@@ -173,7 +173,7 @@ figureing out how to find the false and make the screen also say false proved a 
 ---
 # LCD
 
-```
+```python
 import board
 from lcd.lcd import LCD
 from lcd.i2c_pcf8574_interface import I2CPCF8574Interface
